@@ -1,184 +1,158 @@
-#  ThiranAI – AI for Employment Innovation
+# 🚀 ThiranAI – AI for Employment Innovation
 
-## 📌 Overview
+## 📖 Project Overview
 
-ThiranAI is an AI-powered career development platform designed to help students and job seekers improve their employability through intelligent career guidance, ATS-based resume analysis, personalized learning recommendations, and job discovery. The platform combines Artificial Intelligence, Machine Learning, and Full-Stack Web Technologies to deliver a comprehensive career development ecosystem.
+ThiranAI is an AI-powered career development platform built to bridge the gap between students and employment opportunities. The platform provides intelligent career guidance, ATS-based resume analysis, personalized learning recommendations, job and internship discovery, coding practice resources, and AI-assisted support through a unified ecosystem.
 
----
-
-## ✨ Features
-
-- ATS Resume Analysis & Scoring
-- AI-Powered Job Role Matching
-- Personalized Course Recommendations
-- Resume & Document Management
-- Task Management System
-- Secure Authentication & Authorization
-- Interactive User Dashboard
-- Semantic Search & Recommendation Engine
-- Career Progress Tracking
+The goal of ThiranAI is to help students identify skill gaps, improve their resumes, discover relevant opportunities, and prepare effectively for placements using data-driven recommendations and AI-powered insights.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Problem Statement
+
+Many students struggle with:
+
+* Understanding industry requirements and skill gaps
+* Creating ATS-friendly resumes
+* Finding relevant jobs and internships
+* Choosing appropriate learning resources
+* Tracking placement preparation progress
+
+ThiranAI addresses these challenges by integrating Artificial Intelligence, Machine Learning, and Full-Stack Development into a single platform that guides users throughout their career preparation journey.
+
+---
+
+## 💡 Key Features
+
+### 📄 ATS Resume Analyzer
+
+Analyzes resumes and provides ATS compatibility scores, skill-gap identification, and personalized improvement suggestions.
+
+### 🎯 AI-Based Job & Internship Recommendations
+
+Recommends opportunities based on user skills, interests, and career goals using intelligent matching techniques.
+
+### 📚 Personalized Learning Recommendations
+
+Suggests courses, career roadmaps, and learning resources tailored to individual career aspirations.
+
+### 🤖 AI Chatbot Assistant
+
+Provides instant assistance, career guidance, and platform support through an interactive AI-powered chatbot.
+
+### 📝 Mock Tests & Coding Practice
+
+Offers placement preparation resources, assessments, and coding practice materials.
+
+### 📊 Career Dashboard
+
+Enables users to track learning progress, recommendations, tasks, and placement preparation activities.
+
+---
+
+## 🛠️ Technology Stack
 
 ### Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+
+* React.js
+* JavaScript
+* Tailwind CSS
+* HTML5
+* CSS3
 
 ### Backend
-- FastAPI
-- Python
-- REST APIs
-- JWT Authentication
+
+* FastAPI
+* Python
+* REST APIs
+* JWT Authentication
 
 ### Database
-- MongoDB
 
-### AI & Machine Learning
-- NLP (Natural Language Processing)
-- Semantic Search
-- Recommendation Systems
-- Resume Analysis
+* MongoDB
+
+### Artificial Intelligence & Machine Learning
+
+* Natural Language Processing (NLP)
+* Resume Analysis
+* Semantic Search
+* Recommendation Systems
+* Machine Learning Models
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* VS Code
 
 ---
 
-## 📸 Project Screenshots
+## 🚀 Technical Highlights
 
-### 1. Login & Authentication
-Secure user registration and login system with authentication and access control.
-
-![Login Page](assets/login.png)
+* Developed a full-stack application using React.js and FastAPI.
+* Designed RESTful APIs for seamless frontend-backend communication.
+* Implemented JWT-based authentication and authorization.
+* Integrated machine learning models for recommendation systems.
+* Built an ATS resume evaluation module for career enhancement.
+* Developed semantic search capabilities for intelligent content retrieval.
+* Designed scalable MongoDB schemas for user and career data management.
 
 ---
 
-### 2. User Dashboard
-Interactive dashboard for managing tasks, recommendations, and career activities.
+## 📸 Application Screenshots
+
+### 📊 User Dashboard
+
+Centralized dashboard displaying career insights, recommendations, progress tracking, and personalized activities.
 
 ![Dashboard](assets/dashboard.png)
 
 ---
 
-### 3. ATS Resume Analysis
-AI-powered resume evaluation providing ATS score, skill assessment, and improvement suggestions.
+### 📄 ATS Resume Analysis
+
+Resume evaluation module providing ATS score, skill assessment, and actionable improvement suggestions.
 
 ![Resume Analysis](assets/resume-analysis.png)
 
 ---
 
-### 4. Job & Learning Recommendations
-Personalized job opportunities and learning recommendations based on user skills and career goals.
+### 🎯 Job & Learning Recommendations
+
+Personalized recommendations generated based on user profile, interests, and career goals.
 
 ![Recommendations](assets/recommendations.png)
 
 ---
 
-## 📂 Project Structure
+### 🤖 AI Chatbot Assistant
 
-```text
-ThiranAI
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/
-│   ├── routers/
-│   ├── services/
-│   ├── model/
-│   ├── data/
-│   ├── utils/
-│   ├── requirements.txt
-│   └── main.py
-│
-├── assets/
-│   ├── login.png
-│   ├── dashboard.png
-│   ├── resume-analysis.png
-│   └── recommendations.png
-│
-└── README.md
-```
+Interactive AI assistant for career guidance, platform navigation, and user support.
+
+![Chatbot Assistant](assets/chatbot.png)
 
 ---
 
-## ⚙️ Installation
+## 📈 Future Enhancements
 
-### Clone Repository
-
-```bash
-git clone https://github.com/Priyadharshini511/ThiranAI.git
-cd ThiranAI
-```
-
-### Backend Setup
-
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
+* AI Mock Interview Assistant
+* Company-Specific Interview Preparation
+* Advanced Resume Optimization
+* Career Roadmap Generator
+* LLM-Based Career Mentor
+* Real-Time Job Market Analytics
 
 ---
 
-## 🎯 Future Enhancements
-
-- AI Mock Interview Assistant
-- Career Roadmap Generator
-- Company-Specific Preparation Modules
-- Advanced Resume Optimization
-- LLM-Powered Career Mentor
-
----
-
-## 👩‍💻 Author
+## 👩‍💻 Developer
 
 **Priyadharshini M**
 
-- GitHub: https://github.com/Priyadharshini511
-
-
----
-
-⭐ If you found this project interesting, consider giving it a star!
-
-## 📸 Project Screenshots
-
-### 1. User Dashboard
-Interactive dashboard for managing career activities, learning progress, tasks, and recommendations.
-
-![Dashboard](assets/dashboard.png)
+GitHub: https://github.com/Priyadharshini511
 
 ---
 
-### 2. ATS Resume Analysis
-AI-powered resume evaluation providing ATS score, skill assessment, and personalized improvement suggestions.
+## ⭐ Acknowledgement
 
-![Resume Analysis](assets/resume-analysis.png)
-
----
-
-### 3. Job & Learning Recommendations
-Personalized job opportunities and course recommendations based on user skills, interests, and career goals.
-
-![Recommendations](assets/recommendations.png)
-
----
-
-### 4. Task Management System
-Integrated productivity module enabling users to organize, track, and manage career development activities efficiently.
-
-![Task Management](assets/task-management.png)
-
+If you found this project interesting, consider giving it a ⭐ on GitHub.
