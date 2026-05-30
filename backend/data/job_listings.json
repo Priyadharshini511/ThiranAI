@@ -1,0 +1,1701 @@
+{
+  "Fullstack": [
+    {
+      "Job Title / Role": "Fullstack Developer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Node.js",
+        "React",
+        "MongoDB"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/0"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "React",
+        "Node.js",
+        "Express"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/1"
+    },
+    {
+      "Job Title / Role": "Fullstack Developer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "JavaScript",
+        "Express",
+        "MongoDB"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/2"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "React",
+        "MongoDB",
+        "Express"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/3"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Express",
+        "MongoDB",
+        "Node.js"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/4"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "MongoDB",
+        "Express",
+        "JavaScript"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/5"
+    },
+    {
+      "Job Title / Role": "Fullstack Developer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "MongoDB",
+        "JavaScript",
+        "Node.js"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/6"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Node.js",
+        "MongoDB",
+        "Express"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/7"
+    },
+    {
+      "Job Title / Role": "Fullstack Developer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "JavaScript",
+        "React",
+        "Express"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/8"
+    },
+    {
+      "Job Title / Role": "MERN Stack Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "React",
+        "Express",
+        "JavaScript"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/9"
+    },
+    {
+      "Job Title / Role": "Fullstack Developer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "React",
+        "MongoDB",
+        "Node.js"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/10"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "MongoDB",
+        "Node.js",
+        "Express"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/11"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Node.js",
+        "Express",
+        "React"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/12"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Express",
+        "Node.js",
+        "MongoDB"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/13"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Node.js",
+        "JavaScript",
+        "Express"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/14"
+    },
+    {
+      "Job Title / Role": "MERN Stack Engineer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Express",
+        "React",
+        "JavaScript"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/15"
+    },
+    {
+      "Job Title / Role": "Fullstack Developer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "JavaScript",
+        "Node.js",
+        "React"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/16"
+    },
+    {
+      "Job Title / Role": "Fullstack Developer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Express",
+        "MongoDB",
+        "Node.js"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/17"
+    },
+    {
+      "Job Title / Role": "Web Application Developer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Node.js",
+        "Express",
+        "JavaScript"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/18"
+    },
+    {
+      "Job Title / Role": "MERN Stack Engineer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Express",
+        "JavaScript",
+        "React"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/fullstack/19"
+    }
+  ],
+  "Data Science": [
+    {
+      "Job Title / Role": "Data Analyst",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Python",
+        "Excel",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/0"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Excel",
+        "Python",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/data science/1"
+    },
+    {
+      "Job Title / Role": "Data Analyst",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Excel",
+        "Python",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/2"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "SQL",
+        "Power BI",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/3"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Python",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/data science/4"
+    },
+    {
+      "Job Title / Role": "Data Scientist",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Python",
+        "Pandas",
+        "SQL"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/5"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Excel",
+        "Power BI",
+        "SQL"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/6"
+    },
+    {
+      "Job Title / Role": "Data Analyst",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Python",
+        "Excel",
+        "SQL"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/data science/7"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Python",
+        "SQL",
+        "Excel"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/8"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Python",
+        "Pandas",
+        "Excel"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/data science/9"
+    },
+    {
+      "Job Title / Role": "Data Scientist",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Excel",
+        "Python"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/10"
+    },
+    {
+      "Job Title / Role": "Data Scientist",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "SQL",
+        "Pandas",
+        "Power BI"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/11"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "Excel",
+        "SQL"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/12"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "SQL",
+        "Python",
+        "Power BI"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/13"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Python",
+        "Excel",
+        "SQL"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/14"
+    },
+    {
+      "Job Title / Role": "Data Analyst",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "SQL",
+        "Python"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/15"
+    },
+    {
+      "Job Title / Role": "Data Scientist",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Pandas",
+        "Excel"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/data science/16"
+    },
+    {
+      "Job Title / Role": "Data Scientist",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Python",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/data science/17"
+    },
+    {
+      "Job Title / Role": "Data Analyst",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Excel",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/data science/18"
+    },
+    {
+      "Job Title / Role": "BI Analyst",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "Power BI",
+        "Excel"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/data science/19"
+    }
+  ],
+  "Machine Learning": [
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "Python",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/0"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Python",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/1"
+    },
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "Python",
+        "TensorFlow"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/2"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Scikit-learn",
+        "Python",
+        "PyTorch"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/3"
+    },
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/4"
+    },
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/5"
+    },
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/6"
+    },
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Pandas",
+        "PyTorch"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/7"
+    },
+    {
+      "Job Title / Role": "NLP Specialist",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Python",
+        "PyTorch"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/8"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "PyTorch",
+        "Python"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/9"
+    },
+    {
+      "Job Title / Role": "NLP Specialist",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Scikit-learn",
+        "PyTorch"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/10"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "PyTorch",
+        "Pandas"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/11"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/12"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "Scikit-learn",
+        "TensorFlow"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/13"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Pandas",
+        "PyTorch"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/14"
+    },
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "TensorFlow",
+        "Python"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/15"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Python",
+        "Pandas",
+        "TensorFlow"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/16"
+    },
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Pandas",
+        "Scikit-learn"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/17"
+    },
+    {
+      "Job Title / Role": "AI Developer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Python",
+        "PyTorch",
+        "Scikit-learn"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/18"
+    },
+    {
+      "Job Title / Role": "Machine Learning Engineer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "Python",
+        "Scikit-learn"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/machine learning/19"
+    }
+  ],
+  "Cyber Security": [
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Penetration Testing",
+        "Network Security",
+        "Linux"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/0"
+    },
+    {
+      "Job Title / Role": "Cybersecurity Analyst",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Python",
+        "Linux",
+        "Penetration Testing"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/1"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Penetration Testing",
+        "Wireshark",
+        "Python"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/2"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Python",
+        "Network Security",
+        "Penetration Testing"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/3"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Python",
+        "Linux",
+        "Penetration Testing"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/4"
+    },
+    {
+      "Job Title / Role": "Cybersecurity Analyst",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Wireshark",
+        "Penetration Testing",
+        "Linux"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/5"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Python",
+        "Linux",
+        "Wireshark"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/6"
+    },
+    {
+      "Job Title / Role": "Cybersecurity Analyst",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Penetration Testing",
+        "Wireshark",
+        "Network Security"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/7"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Network Security",
+        "Python",
+        "Wireshark"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/8"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Wireshark",
+        "Python",
+        "Linux"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/9"
+    },
+    {
+      "Job Title / Role": "Cybersecurity Analyst",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Wireshark",
+        "Network Security",
+        "Python"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/10"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Network Security",
+        "Python",
+        "Penetration Testing"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/11"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Python",
+        "Network Security",
+        "Penetration Testing"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/12"
+    },
+    {
+      "Job Title / Role": "Security Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Python",
+        "Penetration Testing",
+        "Wireshark"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/13"
+    },
+    {
+      "Job Title / Role": "Cybersecurity Analyst",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Network Security",
+        "Penetration Testing"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/14"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Network Security",
+        "Wireshark"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/15"
+    },
+    {
+      "Job Title / Role": "Security Engineer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "Penetration Testing",
+        "Python",
+        "Wireshark"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/16"
+    },
+    {
+      "Job Title / Role": "Security Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Wireshark",
+        "Network Security",
+        "Linux"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/17"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Penetration Testing",
+        "Wireshark",
+        "Python"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/18"
+    },
+    {
+      "Job Title / Role": "Ethical Hacker",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Network Security",
+        "Penetration Testing",
+        "Wireshark"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/cyber security/19"
+    }
+  ],
+  "UI&UX design": [
+    {
+      "Job Title / Role": "UI Designer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Figma",
+        "User Research",
+        "Prototyping"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/0"
+    },
+    {
+      "Job Title / Role": "Product Designer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Adobe XD",
+        "Figma",
+        "User Research"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/1"
+    },
+    {
+      "Job Title / Role": "Product Designer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "User Research",
+        "Adobe XD",
+        "Sketch"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/2"
+    },
+    {
+      "Job Title / Role": "Product Designer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Adobe XD",
+        "Figma",
+        "Sketch"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/3"
+    },
+    {
+      "Job Title / Role": "UX Researcher",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Adobe XD",
+        "Sketch",
+        "User Research"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/4"
+    },
+    {
+      "Job Title / Role": "UI Designer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Sketch",
+        "Adobe XD",
+        "User Research"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/5"
+    },
+    {
+      "Job Title / Role": "Product Designer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Figma",
+        "Sketch",
+        "Prototyping"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/6"
+    },
+    {
+      "Job Title / Role": "UX Researcher",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Adobe XD",
+        "Figma",
+        "User Research"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/7"
+    },
+    {
+      "Job Title / Role": "Product Designer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Figma",
+        "Prototyping",
+        "Adobe XD"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/8"
+    },
+    {
+      "Job Title / Role": "UI Designer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Prototyping",
+        "User Research",
+        "Sketch"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/9"
+    },
+    {
+      "Job Title / Role": "UI Designer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Prototyping",
+        "Figma",
+        "User Research"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/10"
+    },
+    {
+      "Job Title / Role": "UX Researcher",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Prototyping",
+        "Adobe XD",
+        "Sketch"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/11"
+    },
+    {
+      "Job Title / Role": "UX Researcher",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "User Research",
+        "Sketch",
+        "Prototyping"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/12"
+    },
+    {
+      "Job Title / Role": "UI Designer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Figma",
+        "Sketch",
+        "Adobe XD"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/13"
+    },
+    {
+      "Job Title / Role": "UI Designer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Figma",
+        "Sketch",
+        "User Research"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/14"
+    },
+    {
+      "Job Title / Role": "UX Researcher",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Figma",
+        "Adobe XD",
+        "Prototyping"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/15"
+    },
+    {
+      "Job Title / Role": "UI Designer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Adobe XD",
+        "Sketch",
+        "User Research"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/16"
+    },
+    {
+      "Job Title / Role": "Product Designer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Prototyping",
+        "Adobe XD",
+        "User Research"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/17"
+    },
+    {
+      "Job Title / Role": "UX Researcher",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Prototyping",
+        "Sketch",
+        "User Research"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/18"
+    },
+    {
+      "Job Title / Role": "Product Designer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Figma",
+        "Adobe XD",
+        "User Research"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/ui&ux design/19"
+    }
+  ],
+  "Devops": [
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "DataCore",
+      "Required Skills / Technologies": [
+        "AWS",
+        "Linux",
+        "Docker"
+      ],
+      "Location / Work Mode": "Chennai",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/0"
+    },
+    {
+      "Job Title / Role": "DevOps Engineer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/1"
+    },
+    {
+      "Job Title / Role": "Site Reliability Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Kubernetes",
+        "Docker"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/devops/2"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "Linux",
+        "Docker"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/3"
+    },
+    {
+      "Job Title / Role": "DevOps Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "AWS",
+        "Linux",
+        "Docker"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/4"
+    },
+    {
+      "Job Title / Role": "Site Reliability Engineer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Docker",
+        "CI/CD",
+        "AWS"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/devops/5"
+    },
+    {
+      "Job Title / Role": "Site Reliability Engineer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Linux",
+        "AWS",
+        "CI/CD"
+      ],
+      "Location / Work Mode": "Mumbai",
+      "Salary / Pay Range": "\u20b95\u20138 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/6"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Linux",
+        "CI/CD",
+        "AWS"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/7"
+    },
+    {
+      "Job Title / Role": "Site Reliability Engineer",
+      "Company Name": "CyberNest",
+      "Required Skills / Technologies": [
+        "Docker",
+        "AWS",
+        "CI/CD"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/8"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Linux",
+        "CI/CD",
+        "AWS"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/9"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "Kubernetes",
+        "Docker"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/10"
+    },
+    {
+      "Job Title / Role": "Site Reliability Engineer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Kubernetes",
+        "Linux",
+        "Docker"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/11"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "TechNova",
+      "Required Skills / Technologies": [
+        "Linux",
+        "CI/CD",
+        "Kubernetes"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/devops/12"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Kubernetes",
+        "CI/CD",
+        "Linux"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b98\u201312 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/13"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "NextGen Labs",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Docker",
+        "Kubernetes"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/devops/14"
+    },
+    {
+      "Job Title / Role": "Site Reliability Engineer",
+      "Company Name": "CodeCraft",
+      "Required Skills / Technologies": [
+        "Docker",
+        "AWS",
+        "Kubernetes"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "\u20b915\u201320 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/15"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Docker",
+        "AWS",
+        "Linux"
+      ],
+      "Location / Work Mode": "Remote",
+      "Salary / Pay Range": "\u20b925,000/month",
+      "Apply Link": "https://jobs.example.com/apply/devops/16"
+    },
+    {
+      "Job Title / Role": "DevOps Engineer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Docker",
+        "Linux",
+        "Kubernetes"
+      ],
+      "Location / Work Mode": "Hyderabad",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/devops/17"
+    },
+    {
+      "Job Title / Role": "DevOps Engineer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "Kubernetes",
+        "AWS",
+        "CI/CD"
+      ],
+      "Location / Work Mode": "Bangalore",
+      "Salary / Pay Range": "\u20b910\u201315 LPA",
+      "Apply Link": "https://jobs.example.com/apply/devops/18"
+    },
+    {
+      "Job Title / Role": "Infrastructure Engineer",
+      "Company Name": "InnoByte",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "Docker",
+        "Kubernetes"
+      ],
+      "Location / Work Mode": "Pune",
+      "Salary / Pay Range": "Unpaid",
+      "Apply Link": "https://jobs.example.com/apply/devops/19"
+    },
+    
+  {
+    "Job Title / Role": "Fullstack Developer",
+    "Company Name": "Google",
+    "Required Skills / Technologies": ["JavaScript", "Node.js", "Angular", "GCP"],
+    "Location / Work Mode": "Mountain View, CA",
+    "Salary / Pay Range": "$140k - $210k",
+    "Apply Link": "https://careers.google.com/jobs/results/123-fullstack-developer"
+  },
+  {
+    "Job Title / Role": "Backend Software Engineer",
+    "Company Name": "Google",
+    "Required Skills / Technologies": ["Java", "Distributed Systems", "Kubernetes", "Bigtable"],
+    "Location / Work Mode": "Sunnyvale, CA",
+    "Salary / Pay Range": "$150k - $230k",
+    "Apply Link": "https://careers.google.com/jobs/results/124-backend-engineer"
+  },
+  {
+    "Job Title / Role": "Site Reliability Engineer",
+    "Company Name": "Google",
+    "Required Skills / Technologies": ["Python", "SRE", "GCP", "Prometheus"],
+    "Location / Work Mode": "New York, NY",
+    "Salary / Pay Range": "$145k - $220k",
+    "Apply Link": "https://careers.google.com/jobs/results/125-sre"
+  },
+  {
+    "Job Title / Role": "Machine Learning Engineer",
+    "Company Name": "Google",
+    "Required Skills / Technologies": ["TensorFlow", "Python", "ML Research", "NLP"],
+    "Location / Work Mode": "Remote",
+    "Salary / Pay Range": "$160k - $250k",
+    "Apply Link": "https://careers.google.com/jobs/results/126-ml-engineer"
+  },
+  {
+    "Job Title / Role": "Frontend Engineer",
+    "Company Name": "Google",
+    "Required Skills / Technologies": ["React", "TypeScript", "UX", "WebPerf"],
+    "Location / Work Mode": "Bengaluru, India",
+    "Salary / Pay Range": "₹30-60 LPA",
+    "Apply Link": "https://careers.google.com/jobs/results/127-frontend"
+  },
+
+  {
+    "Job Title / Role": "Software Engineer II",
+    "Company Name": "Microsoft",
+    "Required Skills / Technologies": ["C#", ".NET", "Azure", "Microservices"],
+    "Location / Work Mode": "Redmond, WA",
+    "Salary / Pay Range": "$130k - $200k",
+    "Apply Link": "https://careers.microsoft.com/us/en/job/200-software-engineer-ii"
+  },
+  {
+    "Job Title / Role": "Program Manager",
+    "Company Name": "Microsoft",
+    "Required Skills / Technologies": ["Product Management", "Azure", "Stakeholder Management"],
+    "Location / Work Mode": "Remote",
+    "Salary / Pay Range": "$120k - $180k",
+    "Apply Link": "https://careers.microsoft.com/us/en/job/201-program-manager"
+  },
+  {
+    "Job Title / Role": "Cloud Solutions Architect",
+    "Company Name": "Microsoft",
+    "Required Skills / Technologies": ["Azure", "Kubernetes", "Terraform", "Networking"],
+    "Location / Work Mode": "Mumbai, India",
+    "Salary / Pay Range": "₹35-70 LPA",
+    "Apply Link": "https://careers.microsoft.com/us/en/job/202-cloud-architect"
+  },
+  {
+    "Job Title / Role": "Data Engineer",
+    "Company Name": "Microsoft",
+    "Required Skills / Technologies": ["Spark", "Python", "Azure Data Factory", "SQL"],
+    "Location / Work Mode": "Hyderabad, India",
+    "Salary / Pay Range": "₹25-50 LPA",
+    "Apply Link": "https://careers.microsoft.com/us/en/job/203-data-engineer"
+  },
+  {
+    "Job Title / Role": "Security Software Engineer",
+    "Company Name": "Microsoft",
+    "Required Skills / Technologies": ["Security", "C/C++", "Threat Analysis"],
+    "Location / Work Mode": "Redmond, WA",
+    "Salary / Pay Range": "$140k - $210k",
+    "Apply Link": "https://careers.microsoft.com/us/en/job/204-security-engineer"
+  },
+
+  {
+    "Job Title / Role": "Operations Manager",
+    "Company Name": "Amazon",
+    "Required Skills / Technologies": ["Operations", "Logistics", "SQL", "Leadership"],
+    "Location / Work Mode": "Seattle, WA",
+    "Salary / Pay Range": "$90k - $150k",
+    "Apply Link": "https://www.amazon.jobs/en/jobs/300-operations-manager"
+  },
+  {
+    "Job Title / Role": "AWS Cloud Engineer",
+    "Company Name": "Amazon",
+    "Required Skills / Technologies": ["AWS", "Terraform", "Linux", "Python"],
+    "Location / Work Mode": "Remote",
+    "Salary / Pay Range": "$130k - $200k",
+    "Apply Link": "https://www.amazon.jobs/en/jobs/301-aws-cloud-engineer"
+  },
+  {
+    "Job Title / Role": "Data Scientist",
+    "Company Name": "Amazon",
+    "Required Skills / Technologies": ["Python", "ML", "SageMaker", "Statistics"],
+    "Location / Work Mode": "Bengaluru, India",
+    "Salary / Pay Range": "₹35-80 LPA",
+    "Apply Link": "https://www.amazon.jobs/en/jobs/302-data-scientist"
+  },
+  {
+    "Job Title / Role": "Software Development Engineer",
+    "Company Name": "Amazon",
+    "Required Skills / Technologies": ["Java", "Distributed Systems", "SQS", "DynamoDB"],
+    "Location / Work Mode": "Hyderabad, India",
+    "Salary / Pay Range": "₹25-60 LPA",
+    "Apply Link": "https://www.amazon.jobs/en/jobs/303-sde"
+  },
+  {
+    "Job Title / Role": "UX Researcher",
+    "Company Name": "Amazon",
+    "Required Skills / Technologies": ["UX Research", "Interviews", "A/B Testing"],
+    "Location / Work Mode": "Seattle, WA",
+    "Salary / Pay Range": "$100k - $160k",
+    "Apply Link": "https://www.amazon.jobs/en/jobs/304-ux-researcher"
+  },
+
+  {
+    "Job Title / Role": "iOS Engineer",
+    "Company Name": "Apple",
+    "Required Skills / Technologies": ["Swift", "iOS SDK", "MVVM", "CoreData"],
+    "Location / Work Mode": "Cupertino, CA",
+    "Salary / Pay Range": "$150k - $240k",
+    "Apply Link": "https://jobs.apple.com/en-us/details/400-ios-engineer"
+  },
+  {
+    "Job Title / Role": "Hardware Design Engineer",
+    "Company Name": "Apple",
+    "Required Skills / Technologies": ["Hardware Design", "ASIC", "PCB", "Verilog"],
+    "Location / Work Mode": "Austin, TX",
+    "Salary / Pay Range": "$140k - $220k",
+    "Apply Link": "https://jobs.apple.com/en-us/details/401-hardware-engineer"
+  },
+  {
+    "Job Title / Role": "Machine Learning Researcher",
+    "Company Name": "Apple",
+    "Required Skills / Technologies": ["PyTorch", "ML Research", "Computer Vision"],
+    "Location / Work Mode": "Remote",
+    "Salary / Pay Range": "$170k - $260k",
+    "Apply Link": "https://jobs.apple.com/en-us/details/402-ml-researcher"
+  },
+  {
+    "Job Title / Role": "Product Designer",
+    "Company Name": "Apple",
+    "Required Skills / Technologies": ["UX", "Sketch", "Prototyping", "User Testing"],
+    "Location / Work Mode": "Cupertino, CA",
+    "Salary / Pay Range": "$120k - $200k",
+    "Apply Link": "https://jobs.apple.com/en-us/details/403-product-designer"
+  },
+  {
+    "Job Title / Role": "Site Reliability Engineer",
+    "Company Name": "Apple",
+    "Required Skills / Technologies": ["SRE", "Kubernetes", "Observability"],
+    "Location / Work Mode": "Bengaluru, India",
+    "Salary / Pay Range": "₹40-80 LPA",
+    "Apply Link": "https://jobs.apple.com/en-us/details/404-sre"
+  },
+
+  {
+    "Job Title / Role": "Data Scientist",
+    "Company Name": "IBM",
+    "Required Skills / Technologies": ["Python", "Spark", "Watson", "SQL"],
+    "Location / Work Mode": "Armonk, NY",
+    "Salary / Pay Range": "$110k - $180k",
+    "Apply Link": "https://www.ibm.com/employment/job/500-data-scientist"
+  },
+  {
+    "Job Title / Role": "Cloud Developer",
+    "Company Name": "IBM",
+    "Required Skills / Technologies": ["Cloud Foundry", "Kubernetes", "Java"],
+    "Location / Work Mode": "Remote",
+    "Salary / Pay Range": "$100k - $170k",
+    "Apply Link": "https://www.ibm.com/employment/job/501-cloud-developer"
+  },
+  {
+    "Job Title / Role": "AI Engineer",
+    "Company Name": "IBM",
+    "Required Skills / Technologies": ["TensorFlow", "Python", "AI Ops", "NLP"],
+    "Location / Work Mode": "Bengaluru, India",
+    "Salary / Pay Range": "₹30-65 LPA",
+    "Apply Link": "https://www.ibm.com/employment/job/502-ai-engineer"
+  },
+  {
+    "Job Title / Role": "Consulting Data Engineer",
+    "Company Name": "IBM",
+    "Required Skills / Technologies": ["ETL", "SQL", "Python", "Client Interaction"],
+    "Location / Work Mode": "Mumbai, India",
+    "Salary / Pay Range": "₹20-45 LPA",
+    "Apply Link": "https://www.ibm.com/employment/job/503-consulting-data-engineer"
+  },
+  {
+    "Job Title / Role": "Security Architect",
+    "Company Name": "IBM",
+    "Required Skills / Technologies": ["Security Architecture", "IAM", "Cloud Security"],
+    "Location / Work Mode": "Armonk, NY",
+    "Salary / Pay Range": "$130k - $210k",
+    "Apply Link": "https://www.ibm.com/employment/job/504-security-architect"
+  },
+
+  {
+    "Job Title / Role": "Backend Engineer",
+    "Company Name": "Netflix",
+    "Required Skills / Technologies": ["Java", "Microservices", "AWS", "Kafka"],
+    "Location / Work Mode": "Los Gatos, CA",
+    "Salary / Pay Range": "$160k - $260k",
+    "Apply Link": "https://jobs.netflix.com/600-backend-engineer"
+  },
+  {
+    "Job Title / Role": "Streaming Platform Engineer",
+    "Company Name": "Netflix",
+    "Required Skills / Technologies": ["Cassandra", "Kubernetes", "Python"],
+    "Location / Work Mode": "Remote",
+    "Salary / Pay Range": "$150k - $240k",
+    "Apply Link": "https://jobs.netflix.com/601-streaming-engineer"
+  },
+  {
+    "Job Title / Role": "Data Platform Engineer",
+    "Company Name": "Netflix",
+    "Required Skills / Technologies": ["Spark", "Scala", "Data Pipelines", "AWS"],
+    "Location / Work Mode": "Los Angeles, CA",
+    "Salary / Pay Range": "$150k - $230k",
+    "Apply Link": "https://jobs.netflix.com/602-data-platform"
+  },
+  {
+    "Job Title / Role": "Content Recommendation Scientist",
+    "Company Name": "Netflix",
+    "Required Skills / Technologies": ["ML", "Recommenders", "Python", "A/B Testing"],
+    "Location / Work Mode": "San Francisco, CA",
+    "Salary / Pay Range": "$170k - $280k",
+    "Apply Link": "https://jobs.netflix.com/603-recommendation-scientist"
+  },
+  {
+    "Job Title / Role": "Frontend Engineer — Playback",
+    "Company Name": "Netflix",
+    "Required Skills / Technologies": ["React", "WebRTC", "Video Streaming", "TypeScript"],
+    "Location / Work Mode": "Remote",
+    "Salary / Pay Range": "$140k - $220k",
+    "Apply Link": "https://jobs.netflix.com/604-frontend-playback"
+  }
+]
+ 
+}

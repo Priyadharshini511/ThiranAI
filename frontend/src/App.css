@@ -1,0 +1,22 @@
+/* 🟢 Highlight task-marked dates with modern look */
+.react-calendar__tile.has-task {
+  background: linear-gradient(135deg, #93c5fd, #60a5fa); /* Tailwind blue-300 → blue-500 */
+  color: #1e3a8a; /* Tailwind blue-900 */
+  font-weight: 600;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+/* 🟣 Add subtle hover effect */
+.react-calendar__tile.has-task:hover {
+  background: linear-gradient(135deg, #3b82f6, #2563eb); /* blue-500 → blue-600 */
+  color: white;
+  transform: scale(1.05);
+}
+
+
+#chatbase-widget {
+  right: 120px !important; /* Pushes it left by 120px to avoid overlap */
+  bottom: 24px !important;
+}

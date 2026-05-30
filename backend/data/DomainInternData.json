@@ -1,0 +1,1454 @@
+{
+  "Fullstack": [
+    {
+      "Internship Title / Role": "Frontend + Backend Intern",
+      "Required Skills / Technologies": [
+        "React",
+        "Node.js",
+        "JavaScript"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=1"
+    },
+    {
+      "Internship Title / Role": "Web Developer Intern",
+      "Required Skills / Technologies": [
+        "MongoDB",
+        "Express",
+        "Node.js"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=2"
+    },
+    {
+      "Internship Title / Role": "Web Developer Intern",
+      "Required Skills / Technologies": [
+        "JavaScript",
+        "Node.js",
+        "Express"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=3"
+    },
+    {
+      "Internship Title / Role": "Web Developer Intern",
+      "Required Skills / Technologies": [
+        "React",
+        "MongoDB",
+        "Express"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Bangalore",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=4"
+    },
+    {
+      "Internship Title / Role": "Frontend + Backend Intern",
+      "Required Skills / Technologies": [
+        "Node.js",
+        "React",
+        "Express"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=5"
+    },
+    {
+      "Internship Title / Role": "Web Developer Intern",
+      "Required Skills / Technologies": [
+        "MongoDB",
+        "React",
+        "Node.js"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=6"
+    },
+    {
+      "Internship Title / Role": "Frontend + Backend Intern",
+      "Required Skills / Technologies": [
+        "React",
+        "Express",
+        "MongoDB"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Mumbai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=7"
+    },
+    {
+      "Internship Title / Role": "Fullstack Developer Intern",
+      "Required Skills / Technologies": [
+        "Express",
+        "JavaScript",
+        "React"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=8"
+    },
+    {
+      "Internship Title / Role": "MERN Stack Intern",
+      "Required Skills / Technologies": [
+        "Express",
+        "JavaScript",
+        "MongoDB"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=9"
+    },
+    {
+      "Internship Title / Role": "Fullstack Developer Intern",
+      "Required Skills / Technologies": [
+        "React",
+        "Express",
+        "MongoDB"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=10"
+    },
+    {
+      "Internship Title / Role": "Fullstack Developer Intern",
+      "Required Skills / Technologies": [
+        "Node.js",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=11"
+    },
+    {
+      "Internship Title / Role": "Fullstack Developer Intern",
+      "Required Skills / Technologies": [
+        "Express",
+        "Node.js",
+        "JavaScript"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=12"
+    },
+    {
+      "Internship Title / Role": "Web Developer Intern",
+      "Required Skills / Technologies": [
+        "MongoDB",
+        "React",
+        "Express"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=13"
+    },
+    {
+      "Internship Title / Role": "Fullstack Developer Intern",
+      "Required Skills / Technologies": [
+        "JavaScript",
+        "Express",
+        "React"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Chennai",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=14"
+    },
+    {
+      "Internship Title / Role": "Web Developer Intern",
+      "Required Skills / Technologies": [
+        "MongoDB",
+        "Express",
+        "Node.js"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=15"
+    },
+    {
+      "Internship Title / Role": "Frontend + Backend Intern",
+      "Required Skills / Technologies": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=16"
+    },
+    {
+      "Internship Title / Role": "Web Developer Intern",
+      "Required Skills / Technologies": [
+        "Express",
+        "Node.js",
+        "MongoDB"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=17"
+    },
+    {
+      "Internship Title / Role": "MERN Stack Intern",
+      "Required Skills / Technologies": [
+        "React",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=18"
+    },
+    {
+      "Internship Title / Role": "Fullstack Developer Intern",
+      "Required Skills / Technologies": [
+        "React",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=19"
+    },
+    {
+      "Internship Title / Role": "Fullstack Developer Intern",
+      "Required Skills / Technologies": [
+        "React",
+        "JavaScript",
+        "Express"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Fullstack&id=20"
+    }
+  ],
+  "Data Science": [
+    {
+      "Internship Title / Role": "Business Intelligence Intern",
+      "Required Skills / Technologies": [
+        "Excel",
+        "Power BI",
+        "Python"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Delhi",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=1"
+    },
+    {
+      "Internship Title / Role": "Business Intelligence Intern",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Pandas",
+        "Python"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Delhi",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=2"
+    },
+    {
+      "Internship Title / Role": "Data Science Intern",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Pandas",
+        "Excel"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=3"
+    },
+    {
+      "Internship Title / Role": "Data Analyst Intern",
+      "Required Skills / Technologies": [
+        "SQL",
+        "Pandas",
+        "Power BI"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=4"
+    },
+    {
+      "Internship Title / Role": "Data Science Intern",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "Power BI",
+        "SQL"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=5"
+    },
+    {
+      "Internship Title / Role": "Data Analyst Intern",
+      "Required Skills / Technologies": [
+        "Excel",
+        "Pandas",
+        "SQL"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=6"
+    },
+    {
+      "Internship Title / Role": "Business Intelligence Intern",
+      "Required Skills / Technologies": [
+        "SQL",
+        "Pandas",
+        "Power BI"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=7"
+    },
+    {
+      "Internship Title / Role": "Data Analyst Intern",
+      "Required Skills / Technologies": [
+        "Excel",
+        "SQL",
+        "Pandas"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Hyderabad",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=8"
+    },
+    {
+      "Internship Title / Role": "Business Intelligence Intern",
+      "Required Skills / Technologies": [
+        "Excel",
+        "Pandas",
+        "Python"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=9"
+    },
+    {
+      "Internship Title / Role": "Data Science Intern",
+      "Required Skills / Technologies": [
+        "SQL",
+        "Python",
+        "Pandas"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=10"
+    },
+    {
+      "Internship Title / Role": "Data Analyst Intern",
+      "Required Skills / Technologies": [
+        "SQL",
+        "Power BI",
+        "Pandas"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=11"
+    },
+    {
+      "Internship Title / Role": "Data Science Intern",
+      "Required Skills / Technologies": [
+        "Excel",
+        "Power BI",
+        "Pandas"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=12"
+    },
+    {
+      "Internship Title / Role": "Business Intelligence Intern",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Pandas",
+        "Excel"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=13"
+    },
+    {
+      "Internship Title / Role": "Data Science Intern",
+      "Required Skills / Technologies": [
+        "Power BI",
+        "Pandas",
+        "SQL"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=14"
+    },
+    {
+      "Internship Title / Role": "Data Science Intern",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "Excel",
+        "SQL"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=15"
+    },
+    {
+      "Internship Title / Role": "Business Intelligence Intern",
+      "Required Skills / Technologies": [
+        "Excel",
+        "SQL",
+        "Pandas"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=16"
+    },
+    {
+      "Internship Title / Role": "Data Analyst Intern",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "SQL",
+        "Excel"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=17"
+    },
+    {
+      "Internship Title / Role": "Data Science Intern",
+      "Required Skills / Technologies": [
+        "SQL",
+        "Python",
+        "Power BI"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=18"
+    },
+    {
+      "Internship Title / Role": "Data Analyst Intern",
+      "Required Skills / Technologies": [
+        "Excel",
+        "SQL",
+        "Python"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=19"
+    },
+    {
+      "Internship Title / Role": "Data Analyst Intern",
+      "Required Skills / Technologies": [
+        "Excel",
+        "SQL",
+        "Python"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Data%20Science&id=20"
+    }
+  ],
+  "Machine Learning": [
+    {
+      "Internship Title / Role": "Deep Learning Intern",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "Scikit-learn",
+        "TensorFlow"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Mumbai",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=1"
+    },
+    {
+      "Internship Title / Role": "NLP Intern",
+      "Required Skills / Technologies": [
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=2"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Pandas",
+        "TensorFlow"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Delhi",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=3"
+    },
+    {
+      "Internship Title / Role": "NLP Intern",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=4"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Python",
+        "Scikit-learn"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=5"
+    },
+    {
+      "Internship Title / Role": "NLP Intern",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "PyTorch",
+        "Python"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=6"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Python",
+        "PyTorch"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=7"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=8"
+    },
+    {
+      "Internship Title / Role": "Deep Learning Intern",
+      "Required Skills / Technologies": [
+        "Scikit-learn",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Remote",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=9"
+    },
+    {
+      "Internship Title / Role": "NLP Intern",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "Python",
+        "Scikit-learn"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=10"
+    },
+    {
+      "Internship Title / Role": "NLP Intern",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "Python",
+        "Pandas"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=11"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Pandas",
+        "PyTorch"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=12"
+    },
+    {
+      "Internship Title / Role": "AI Intern",
+      "Required Skills / Technologies": [
+        "Scikit-learn",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=13"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "Pandas",
+        "Python",
+        "PyTorch"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=14"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "Pandas",
+        "Scikit-learn"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=15"
+    },
+    {
+      "Internship Title / Role": "AI Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Pandas",
+        "TensorFlow"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=16"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=17"
+    },
+    {
+      "Internship Title / Role": "ML Intern",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "Python",
+        "Scikit-learn"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=18"
+    },
+    {
+      "Internship Title / Role": "Deep Learning Intern",
+      "Required Skills / Technologies": [
+        "PyTorch",
+        "Python",
+        "Scikit-learn"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=19"
+    },
+    {
+      "Internship Title / Role": "AI Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Pandas",
+        "TensorFlow"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Machine%20Learning&id=20"
+    }
+  ],
+  "Cyber Security": [
+    {
+      "Internship Title / Role": "Cybersecurity Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Networking",
+        "Wireshark"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=1"
+    },
+    {
+      "Internship Title / Role": "Ethical Hacking Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Networking",
+        "Wireshark"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=2"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Penetration Testing",
+        "Wireshark",
+        "Networking"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=3"
+    },
+    {
+      "Internship Title / Role": "Cybersecurity Intern",
+      "Required Skills / Technologies": [
+        "Wireshark",
+        "Penetration Testing",
+        "Networking"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=4"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Networking",
+        "Linux"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=5"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Linux",
+        "Wireshark"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Bangalore",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=6"
+    },
+    {
+      "Internship Title / Role": "Ethical Hacking Intern",
+      "Required Skills / Technologies": [
+        "Networking",
+        "Python",
+        "Linux"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=7"
+    },
+    {
+      "Internship Title / Role": "Ethical Hacking Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Python",
+        "Wireshark"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Chennai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=8"
+    },
+    {
+      "Internship Title / Role": "Cybersecurity Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Networking",
+        "Penetration Testing"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=9"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Wireshark",
+        "Penetration Testing",
+        "Python"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=10"
+    },
+    {
+      "Internship Title / Role": "Cybersecurity Intern",
+      "Required Skills / Technologies": [
+        "Wireshark",
+        "Penetration Testing",
+        "Python"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=11"
+    },
+    {
+      "Internship Title / Role": "Ethical Hacking Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Wireshark",
+        "Networking"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=12"
+    },
+    {
+      "Internship Title / Role": "Cybersecurity Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Wireshark",
+        "Networking"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=13"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Wireshark",
+        "Linux",
+        "Penetration Testing"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Bangalore",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=14"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Penetration Testing",
+        "Networking"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=15"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Python",
+        "Wireshark"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=16"
+    },
+    {
+      "Internship Title / Role": "Cybersecurity Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Python",
+        "Wireshark"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=17"
+    },
+    {
+      "Internship Title / Role": "Ethical Hacking Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Linux",
+        "Networking"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=18"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Networking",
+        "Wireshark"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=19"
+    },
+    {
+      "Internship Title / Role": "Information Security Intern",
+      "Required Skills / Technologies": [
+        "Python",
+        "Wireshark",
+        "Networking"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Cyber%20Security&id=20"
+    }
+  ],
+  "UI&UX design": [
+    {
+      "Internship Title / Role": "UI/UX Designer Intern",
+      "Required Skills / Technologies": [
+        "Adobe XD",
+        "User Research",
+        "Wireframing"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=1"
+    },
+    {
+      "Internship Title / Role": "Product Designer Intern",
+      "Required Skills / Technologies": [
+        "Figma",
+        "Sketch",
+        "User Research"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=2"
+    },
+    {
+      "Internship Title / Role": "Product Designer Intern",
+      "Required Skills / Technologies": [
+        "Sketch",
+        "Adobe XD",
+        "Wireframing"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=3"
+    },
+    {
+      "Internship Title / Role": "Visual Designer Intern",
+      "Required Skills / Technologies": [
+        "Sketch",
+        "Adobe XD",
+        "Wireframing"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=4"
+    },
+    {
+      "Internship Title / Role": "Visual Designer Intern",
+      "Required Skills / Technologies": [
+        "Wireframing",
+        "User Research",
+        "Sketch"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=5"
+    },
+    {
+      "Internship Title / Role": "Product Designer Intern",
+      "Required Skills / Technologies": [
+        "User Research",
+        "Figma",
+        "Sketch"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=6"
+    },
+    {
+      "Internship Title / Role": "UI/UX Designer Intern",
+      "Required Skills / Technologies": [
+        "Sketch",
+        "Figma",
+        "Wireframing"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=7"
+    },
+    {
+      "Internship Title / Role": "Visual Designer Intern",
+      "Required Skills / Technologies": [
+        "Figma",
+        "Adobe XD",
+        "User Research"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=8"
+    },
+    {
+      "Internship Title / Role": "UI/UX Designer Intern",
+      "Required Skills / Technologies": [
+        "Sketch",
+        "Figma",
+        "Wireframing"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=9"
+    },
+    {
+      "Internship Title / Role": "Visual Designer Intern",
+      "Required Skills / Technologies": [
+        "User Research",
+        "Figma",
+        "Adobe XD"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=10"
+    },
+    {
+      "Internship Title / Role": "Visual Designer Intern",
+      "Required Skills / Technologies": [
+        "User Research",
+        "Sketch",
+        "Figma"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=11"
+    },
+    {
+      "Internship Title / Role": "UI/UX Designer Intern",
+      "Required Skills / Technologies": [
+        "User Research",
+        "Wireframing",
+        "Figma"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Hyderabad",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=12"
+    },
+    {
+      "Internship Title / Role": "Product Designer Intern",
+      "Required Skills / Technologies": [
+        "Figma",
+        "User Research",
+        "Wireframing"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Remote",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=13"
+    },
+    {
+      "Internship Title / Role": "UI/UX Designer Intern",
+      "Required Skills / Technologies": [
+        "Adobe XD",
+        "Sketch",
+        "Figma"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=14"
+    },
+    {
+      "Internship Title / Role": "Product Designer Intern",
+      "Required Skills / Technologies": [
+        "Wireframing",
+        "User Research",
+        "Adobe XD"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=15"
+    },
+    {
+      "Internship Title / Role": "Product Designer Intern",
+      "Required Skills / Technologies": [
+        "Wireframing",
+        "Figma",
+        "User Research"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Chennai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=16"
+    },
+    {
+      "Internship Title / Role": "Visual Designer Intern",
+      "Required Skills / Technologies": [
+        "Adobe XD",
+        "Figma",
+        "User Research"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=17"
+    },
+    {
+      "Internship Title / Role": "Visual Designer Intern",
+      "Required Skills / Technologies": [
+        "Sketch",
+        "Wireframing",
+        "User Research"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=18"
+    },
+    {
+      "Internship Title / Role": "UI/UX Designer Intern",
+      "Required Skills / Technologies": [
+        "Sketch",
+        "Wireframing",
+        "User Research"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=19"
+    },
+    {
+      "Internship Title / Role": "UI/UX Designer Intern",
+      "Required Skills / Technologies": [
+        "User Research",
+        "Sketch",
+        "Adobe XD"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Hyderabad",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=UI&UX%20design&id=20"
+    }
+  ],
+  "Devops": [
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "Docker",
+        "CI/CD",
+        "Kubernetes"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Devops&id=1"
+    },
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "AWS",
+        "CI/CD",
+        "Kubernetes"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Remote",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=2"
+    },
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "Docker",
+        "CI/CD",
+        "Linux"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=3"
+    },
+    {
+      "Internship Title / Role": "DevOps Intern",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "Docker",
+        "Linux"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=4"
+    },
+    {
+      "Internship Title / Role": "Infrastructure Intern",
+      "Required Skills / Technologies": [
+        "Docker",
+        "Linux",
+        "CI/CD"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=5"
+    },
+    {
+      "Internship Title / Role": "DevOps Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "CI/CD",
+        "Docker"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=6"
+    },
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "CI/CD",
+        "Docker"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=7"
+    },
+    {
+      "Internship Title / Role": "DevOps Intern",
+      "Required Skills / Technologies": [
+        "Docker",
+        "Linux",
+        "CI/CD"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Remote",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=8"
+    },
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "Docker",
+        "Linux"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=9"
+    },
+    {
+      "Internship Title / Role": "DevOps Intern",
+      "Required Skills / Technologies": [
+        "AWS",
+        "Linux",
+        "Kubernetes"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Mumbai",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=10"
+    },
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "AWS",
+        "Docker"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Hyderabad",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=11"
+    },
+    {
+      "Internship Title / Role": "DevOps Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "CI/CD",
+        "Docker"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Remote",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=12"
+    },
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "Docker",
+        "AWS"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Bangalore",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Devops&id=13"
+    },
+    {
+      "Internship Title / Role": "Infrastructure Intern",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "AWS",
+        "Docker"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Remote",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=14"
+    },
+    {
+      "Internship Title / Role": "DevOps Intern",
+      "Required Skills / Technologies": [
+        "AWS",
+        "Kubernetes",
+        "Docker"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Bangalore",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Devops&id=15"
+    },
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "AWS",
+        "Docker"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "3 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=16"
+    },
+    {
+      "Internship Title / Role": "Infrastructure Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "AWS",
+        "CI/CD"
+      ],
+      "Stipend / Pay": "Unpaid",
+      "Location / Mode": "Mumbai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=17"
+    },
+    {
+      "Internship Title / Role": "DevOps Intern",
+      "Required Skills / Technologies": [
+        "CI/CD",
+        "AWS",
+        "Linux"
+      ],
+      "Stipend / Pay": "₹15,000/month",
+      "Location / Mode": "Mumbai",
+      "Duration": "2 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=18"
+    },
+    {
+      "Internship Title / Role": "Site Reliability Intern",
+      "Required Skills / Technologies": [
+        "Kubernetes",
+        "AWS",
+        "Docker"
+      ],
+      "Stipend / Pay": "₹5,000/month",
+      "Location / Mode": "Chennai",
+      "Duration": "6 months",
+      "Apply Link": "https://example.com/apply?category=Devops&id=19"
+    },
+    {
+      "Internship Title / Role": "Infrastructure Intern",
+      "Required Skills / Technologies": [
+        "Linux",
+        "Docker",
+        "Kubernetes"
+      ],
+      "Stipend / Pay": "₹10,000/month",
+      "Location / Mode": "Delhi",
+      "Duration": "1 month",
+      "Apply Link": "https://example.com/apply?category=Devops&id=20"
+    }
+  ]
+}

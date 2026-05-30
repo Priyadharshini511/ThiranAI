@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 2 km north. He then walks 2 km south. Finally he walks 4 km east. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "south",
+      "east",
+      "north"
+    ],
+    "answer": "east"
+  },
+  {
+    "id": 2,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 2 km south. He then walks 6 km east. Finally he walks 2 km west. In which direction is he from his starting point?",
+    "options": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ],
+    "answer": "east"
+  },
+  {
+    "id": 3,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 2 km east. He then walks 3 km west. Finally he walks 3 km north. In which direction is he from his starting point?",
+    "options": [
+      "south",
+      "west",
+      "east",
+      "north"
+    ],
+    "answer": "north"
+  },
+  {
+    "id": 4,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km west. He then walks 5 km north. Finally he walks 3 km south. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "north",
+      "south",
+      "east"
+    ],
+    "answer": "west"
+  },
+  {
+    "id": 5,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 2 km north. He then walks 3 km south. Finally he walks 5 km east. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "east",
+      "north",
+      "south"
+    ],
+    "answer": "east"
+  },
+  {
+    "id": 6,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 3 km south. He then walks 4 km east. Finally he walks 2 km west. In which direction is he from his starting point?",
+    "options": [
+      "east",
+      "west",
+      "north",
+      "south"
+    ],
+    "answer": "south"
+  },
+  {
+    "id": 7,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 4 km east. He then walks 4 km west. Finally he walks 6 km north. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "south",
+      "north",
+      "east"
+    ],
+    "answer": "north"
+  },
+  {
+    "id": 8,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km west. He then walks 2 km north. Finally he walks 5 km south. In which direction is he from his starting point?",
+    "options": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "answer": "west"
+  },
+  {
+    "id": 9,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km north. He then walks 4 km south. Finally he walks 6 km east. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "east",
+      "south",
+      "north"
+    ],
+    "answer": "east"
+  },
+  {
+    "id": 10,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 2 km south. He then walks 3 km east. Finally he walks 4 km west. In which direction is he from his starting point?",
+    "options": [
+      "north",
+      "east",
+      "west",
+      "south"
+    ],
+    "answer": "south"
+  },
+  {
+    "id": 11,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 5 km east. He then walks 4 km west. Finally he walks 5 km north. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "south",
+      "north",
+      "east"
+    ],
+    "answer": "north"
+  },
+  {
+    "id": 12,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 4 km west. He then walks 3 km north. Finally he walks 4 km south. In which direction is he from his starting point?",
+    "options": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "answer": "west"
+  },
+  {
+    "id": 13,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km north. He then walks 3 km south. Finally he walks 3 km east. In which direction is he from his starting point?",
+    "options": [
+      "north-east",
+      "south",
+      "north",
+      "east"
+    ],
+    "answer": "north-east"
+  },
+  {
+    "id": 14,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km south. He then walks 3 km east. Finally he walks 4 km west. In which direction is he from his starting point?",
+    "options": [
+      "north",
+      "east",
+      "west",
+      "south"
+    ],
+    "answer": "south"
+  },
+  {
+    "id": 15,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 4 km east. He then walks 5 km west. Finally he walks 4 km north. In which direction is he from his starting point?",
+    "options": [
+      "east",
+      "south",
+      "west",
+      "north"
+    ],
+    "answer": "north"
+  },
+  {
+    "id": 16,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 3 km west. He then walks 5 km north. Finally he walks 5 km south. In which direction is he from his starting point?",
+    "options": [
+      "south",
+      "north",
+      "west",
+      "east"
+    ],
+    "answer": "west"
+  },
+  {
+    "id": 17,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 3 km north. He then walks 3 km south. Finally he walks 6 km east. In which direction is he from his starting point?",
+    "options": [
+      "east",
+      "north",
+      "west",
+      "south"
+    ],
+    "answer": "east"
+  },
+  {
+    "id": 18,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km south. He then walks 5 km east. Finally he walks 4 km west. In which direction is he from his starting point?",
+    "options": [
+      "east",
+      "west",
+      "south",
+      "north"
+    ],
+    "answer": "south"
+  },
+  {
+    "id": 19,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 2 km east. He then walks 2 km west. Finally he walks 2 km north. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "north",
+      "east",
+      "south"
+    ],
+    "answer": "north"
+  },
+  {
+    "id": 20,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 5 km west. He then walks 6 km north. Finally he walks 2 km south. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "south",
+      "north",
+      "east"
+    ],
+    "answer": "west"
+  },
+  {
+    "id": 21,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km north. He then walks 4 km south. Finally he walks 6 km east. In which direction is he from his starting point?",
+    "options": [
+      "north",
+      "west",
+      "south",
+      "east"
+    ],
+    "answer": "east"
+  },
+  {
+    "id": 22,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km south. He then walks 4 km east. Finally he walks 4 km west. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "east",
+      "north",
+      "south"
+    ],
+    "answer": "south"
+  },
+  {
+    "id": 23,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 3 km east. He then walks 5 km west. Finally he walks 2 km north. In which direction is he from his starting point?",
+    "options": [
+      "north",
+      "north-west",
+      "east",
+      "south"
+    ],
+    "answer": "north-west"
+  },
+  {
+    "id": 24,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km west. He then walks 2 km north. Finally he walks 4 km south. In which direction is he from his starting point?",
+    "options": [
+      "south",
+      "east",
+      "west",
+      "north"
+    ],
+    "answer": "west"
+  },
+  {
+    "id": 25,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 3 km north. He then walks 6 km south. Finally he walks 6 km east. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "north",
+      "south",
+      "east"
+    ],
+    "answer": "east"
+  },
+  {
+    "id": 26,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 5 km south. He then walks 2 km east. Finally he walks 2 km west. In which direction is he from his starting point?",
+    "options": [
+      "west",
+      "south",
+      "north",
+      "east"
+    ],
+    "answer": "south"
+  },
+  {
+    "id": 27,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 2 km east. He then walks 3 km west. Finally he walks 6 km north. In which direction is he from his starting point?",
+    "options": [
+      "east",
+      "south",
+      "west",
+      "north"
+    ],
+    "answer": "north"
+  },
+  {
+    "id": 28,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 2 km west. He then walks 6 km north. Finally he walks 3 km south. In which direction is he from his starting point?",
+    "options": [
+      "north",
+      "west",
+      "east",
+      "south"
+    ],
+    "answer": "north"
+  },
+  {
+    "id": 29,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 6 km north. He then walks 3 km south. Finally he walks 4 km east. In which direction is he from his starting point?",
+    "options": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ],
+    "answer": "east"
+  },
+  {
+    "id": 30,
+    "category": "aptitude",
+    "subcategory": "direction",
+    "question": "A person starts walking 4 km south. He then walks 5 km east. Finally he walks 4 km west. In which direction is he from his starting point?",
+    "options": [
+      "south",
+      "north",
+      "east",
+      "west"
+    ],
+    "answer": "south"
+  },
+  {
+    "id": 31,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 21 - 37 ?",
+    "options": [
+      "-19",
+      "-16",
+      "-13",
+      "-18"
+    ],
+    "answer": "-16"
+  },
+  {
+    "id": 32,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 6 + 15 ?",
+    "options": [
+      "22",
+      "18",
+      "21",
+      "19"
+    ],
+    "answer": "21"
+  },
+  {
+    "id": 33,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is floor division of 23 by 10? (i.e., 23 // 10)",
+    "options": [
+      "12",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 34,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is floor division of 32 by 8? (i.e., 32 // 8)",
+    "options": [
+      "14",
+      "9",
+      "1",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 35,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 99 + 49 ?",
+    "options": [
+      "153",
+      "148",
+      "150",
+      "149"
+    ],
+    "answer": "148"
+  },
+  {
+    "id": 36,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 41 - 65 ?",
+    "options": [
+      "-26",
+      "-14",
+      "-35",
+      "-24"
+    ],
+    "answer": "-24"
+  },
+  {
+    "id": 37,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is floor division of 40 by 5? (i.e., 40 // 5)",
+    "options": [
+      "5",
+      "13",
+      "8",
+      "7"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 38,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 39 × 64 ?",
+    "options": [
+      "2506",
+      "2496",
+      "2495",
+      "2501"
+    ],
+    "answer": "2496"
+  },
+  {
+    "id": 39,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 25 % 12 ? (remainder)",
+    "options": [
+      "5",
+      "11",
+      "1",
+      "-2"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 40,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 27 % 9 ? (remainder)",
+    "options": [
+      "5",
+      "1",
+      "-2",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 41,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 154 % 18 ? (remainder)",
+    "options": [
+      "11",
+      "13",
+      "10",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 42,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 56 × 22 ?",
+    "options": [
+      "1235",
+      "1230",
+      "1242",
+      "1232"
+    ],
+    "answer": "1232"
+  },
+  {
+    "id": 43,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 15 - 74 ?",
+    "options": [
+      "-60",
+      "-57",
+      "-56",
+      "-59"
+    ],
+    "answer": "-59"
+  },
+  {
+    "id": 44,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is floor division of 44 by 6? (i.e., 44 // 6)",
+    "options": [
+      "9",
+      "7",
+      "5",
+      "4"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 45,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 19 - 76 ?",
+    "options": [
+      "-47",
+      "-55",
+      "-57",
+      "-56"
+    ],
+    "answer": "-57"
+  },
+  {
+    "id": 46,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 70 × 68 ?",
+    "options": [
+      "4757",
+      "4765",
+      "4760",
+      "4758"
+    ],
+    "answer": "4760"
+  },
+  {
+    "id": 47,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 48 × 22 ?",
+    "options": [
+      "1055",
+      "1066",
+      "1061",
+      "1056"
+    ],
+    "answer": "1056"
+  },
+  {
+    "id": 48,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 19 % 13 ? (remainder)",
+    "options": [
+      "-5",
+      "6",
+      "5",
+      "11"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 49,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 51 - 32 ?",
+    "options": [
+      "24",
+      "22",
+      "19",
+      "17"
+    ],
+    "answer": "19"
+  },
+  {
+    "id": 50,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 28 + 58 ?",
+    "options": [
+      "89",
+      "86",
+      "91",
+      "85"
+    ],
+    "answer": "86"
+  },
+  {
+    "id": 51,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is floor division of 12 by 9? (i.e., 12 // 9)",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "11"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 52,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 9 - 90 ?",
+    "options": [
+      "-79",
+      "-78",
+      "-76",
+      "-81"
+    ],
+    "answer": "-81"
+  },
+  {
+    "id": 53,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is floor division of 44 by 7? (i.e., 44 // 7)",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "3"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 54,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 121 % 13 ? (remainder)",
+    "options": [
+      "7",
+      "4",
+      "9",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 55,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is floor division of 10 by 10? (i.e., 10 // 10)",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 56,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 85 + 46 ?",
+    "options": [
+      "131",
+      "133",
+      "136",
+      "129"
+    ],
+    "answer": "131"
+  },
+  {
+    "id": 57,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 76 - 22 ?",
+    "options": [
+      "61",
+      "54",
+      "59",
+      "53"
+    ],
+    "answer": "54"
+  },
+  {
+    "id": 58,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 44 - 42 ?",
+    "options": [
+      "5",
+      "2",
+      "7",
+      "12"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 59,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 71 - 66 ?",
+    "options": [
+      "7",
+      "3",
+      "8",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 60,
+    "category": "aptitude",
+    "subcategory": "arithmetic",
+    "question": "What is 34 - 31 ?",
+    "options": [
+      "6",
+      "4",
+      "0",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 61,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on July 26, 2030?",
+    "options": [
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "Tuesday"
+    ],
+    "answer": "Friday"
+  },
+  {
+    "id": 62,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on December 19, 2026?",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Saturday",
+      "Friday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "id": 63,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on February 08, 2030?",
+    "options": [
+      "Sunday",
+      "Thursday",
+      "Saturday",
+      "Friday"
+    ],
+    "answer": "Friday"
+  },
+  {
+    "id": 64,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on September 28, 2030?",
+    "options": [
+      "Saturday",
+      "Monday",
+      "Thursday",
+      "Tuesday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "id": 65,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on December 04, 2030?",
+    "options": [
+      "Saturday",
+      "Friday",
+      "Wednesday",
+      "Sunday"
+    ],
+    "answer": "Wednesday"
+  },
+  {
+    "id": 66,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on February 14, 2028?",
+    "options": [
+      "Thursday",
+      "Monday",
+      "Wednesday",
+      "Sunday"
+    ],
+    "answer": "Monday"
+  },
+  {
+    "id": 67,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on February 20, 2027?",
+    "options": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "id": 68,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on May 23, 2027?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Sunday",
+      "Friday"
+    ],
+    "answer": "Sunday"
+  },
+  {
+    "id": 69,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on June 28, 2029?",
+    "options": [
+      "Thursday",
+      "Sunday",
+      "Tuesday",
+      "Monday"
+    ],
+    "answer": "Thursday"
+  },
+  {
+    "id": 70,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on August 22, 2028?",
+    "options": [
+      "Tuesday",
+      "Sunday",
+      "Monday",
+      "Friday"
+    ],
+    "answer": "Tuesday"
+  },
+  {
+    "id": 71,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on September 03, 2030?",
+    "options": [
+      "Monday",
+      "Saturday",
+      "Tuesday",
+      "Friday"
+    ],
+    "answer": "Tuesday"
+  },
+  {
+    "id": 72,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on April 10, 2027?",
+    "options": [
+      "Sunday",
+      "Thursday",
+      "Saturday",
+      "Tuesday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "id": 73,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on January 16, 2028?",
+    "options": [
+      "Sunday",
+      "Thursday",
+      "Saturday",
+      "Monday"
+    ],
+    "answer": "Sunday"
+  },
+  {
+    "id": 74,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on August 29, 2029?",
+    "options": [
+      "Friday",
+      "Sunday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "answer": "Wednesday"
+  },
+  {
+    "id": 75,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on January 25, 2026?",
+    "options": [
+      "Saturday",
+      "Thursday",
+      "Sunday",
+      "Tuesday"
+    ],
+    "answer": "Sunday"
+  },
+  {
+    "id": 76,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on January 21, 2027?",
+    "options": [
+      "Thursday",
+      "Wednesday",
+      "Friday",
+      "Tuesday"
+    ],
+    "answer": "Thursday"
+  },
+  {
+    "id": 77,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on November 12, 2029?",
+    "options": [
+      "Sunday",
+      "Friday",
+      "Monday",
+      "Thursday"
+    ],
+    "answer": "Monday"
+  },
+  {
+    "id": 78,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on September 15, 2025?",
+    "options": [
+      "Sunday",
+      "Tuesday",
+      "Monday",
+      "Saturday"
+    ],
+    "answer": "Monday"
+  },
+  {
+    "id": 79,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on December 23, 2029?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Sunday",
+      "Saturday"
+    ],
+    "answer": "Sunday"
+  },
+  {
+    "id": 80,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on January 30, 2029?",
+    "options": [
+      "Wednesday",
+      "Tuesday",
+      "Sunday",
+      "Saturday"
+    ],
+    "answer": "Tuesday"
+  },
+  {
+    "id": 81,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on October 05, 2028?",
+    "options": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "answer": "Thursday"
+  },
+  {
+    "id": 82,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on December 16, 2029?",
+    "options": [
+      "Monday",
+      "Wednesday",
+      "Tuesday",
+      "Sunday"
+    ],
+    "answer": "Sunday"
+  },
+  {
+    "id": 83,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on October 28, 2027?",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ],
+    "answer": "Thursday"
+  },
+  {
+    "id": 84,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on May 14, 2030?",
+    "options": [
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Tuesday"
+    ],
+    "answer": "Tuesday"
+  },
+  {
+    "id": 85,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on April 22, 2029?",
+    "options": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Sunday"
+    ],
+    "answer": "Sunday"
+  },
+  {
+    "id": 86,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on March 11, 2026?",
+    "options": [
+      "Thursday",
+      "Wednesday",
+      "Sunday",
+      "Friday"
+    ],
+    "answer": "Wednesday"
+  },
+  {
+    "id": 87,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on September 17, 2029?",
+    "options": [
+      "Monday",
+      "Thursday",
+      "Saturday",
+      "Friday"
+    ],
+    "answer": "Monday"
+  },
+  {
+    "id": 88,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on May 29, 2027?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Saturday",
+      "Wednesday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "id": 89,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on October 17, 2028?",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Tuesday"
+    ],
+    "answer": "Tuesday"
+  },
+  {
+    "id": 90,
+    "category": "aptitude",
+    "subcategory": "calendar",
+    "question": "If August 06, 2025 is a Wednesday, what day of the week will it be on August 14, 2026?",
+    "options": [
+      "Friday",
+      "Wednesday",
+      "Thursday",
+      "Tuesday"
+    ],
+    "answer": "Friday"
+  },
+  {
+    "id": 91,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'begin':",
+    "options": [
+      "bright",
+      "angry",
+      "slow",
+      "start"
+    ],
+    "answer": "start"
+  },
+  {
+    "id": 92,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ascend':",
+    "options": [
+      "descend",
+      "quick",
+      "brave",
+      "accept"
+    ],
+    "answer": "descend"
+  },
+  {
+    "id": 93,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'smart':",
+    "options": [
+      "bright",
+      "young",
+      "intelligent",
+      "sad"
+    ],
+    "answer": "intelligent"
+  },
+  {
+    "id": 94,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'arrive':",
+    "options": [
+      "depart",
+      "modern",
+      "quick",
+      "large"
+    ],
+    "answer": "depart"
+  },
+  {
+    "id": 95,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'smart':",
+    "options": [
+      "intelligent",
+      "bright",
+      "slow",
+      "angry"
+    ],
+    "answer": "intelligent"
+  },
+  {
+    "id": 96,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'accept':",
+    "options": [
+      "modern",
+      "accept",
+      "large",
+      "reject"
+    ],
+    "answer": "reject"
+  },
+  {
+    "id": 97,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'fast':",
+    "options": [
+      "angry",
+      "bright",
+      "quick",
+      "sad"
+    ],
+    "answer": "quick"
+  },
+  {
+    "id": 98,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ancient':",
+    "options": [
+      "large",
+      "modern",
+      "arrive",
+      "brave"
+    ],
+    "answer": "modern"
+  },
+  {
+    "id": 99,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'fast':",
+    "options": [
+      "slow",
+      "quick",
+      "sad",
+      "small"
+    ],
+    "answer": "quick"
+  },
+  {
+    "id": 100,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ascend':",
+    "options": [
+      "quick",
+      "modern",
+      "descend",
+      "accept"
+    ],
+    "answer": "descend"
+  },
+  {
+    "id": 101,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'begin':",
+    "options": [
+      "young",
+      "start",
+      "slow",
+      "bright"
+    ],
+    "answer": "start"
+  },
+  {
+    "id": 102,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ascend':",
+    "options": [
+      "arrive",
+      "brave",
+      "modern",
+      "descend"
+    ],
+    "answer": "descend"
+  },
+  {
+    "id": 103,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'happy':",
+    "options": [
+      "bright",
+      "sad",
+      "joyful",
+      "angry"
+    ],
+    "answer": "joyful"
+  },
+  {
+    "id": 104,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ascend':",
+    "options": [
+      "descend",
+      "brave",
+      "arrive",
+      "accept"
+    ],
+    "answer": "descend"
+  },
+  {
+    "id": 105,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'smart':",
+    "options": [
+      "slow",
+      "intelligent",
+      "young",
+      "angry"
+    ],
+    "answer": "intelligent"
+  },
+  {
+    "id": 106,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'brave':",
+    "options": [
+      "arrive",
+      "cowardly",
+      "accept",
+      "large"
+    ],
+    "answer": "cowardly"
+  },
+  {
+    "id": 107,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'big':",
+    "options": [
+      "small",
+      "silent",
+      "angry",
+      "large"
+    ],
+    "answer": "large"
+  },
+  {
+    "id": 108,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ancient':",
+    "options": [
+      "large",
+      "quick",
+      "accept",
+      "modern"
+    ],
+    "answer": "modern"
+  },
+  {
+    "id": 109,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'fast':",
+    "options": [
+      "young",
+      "quick",
+      "sad",
+      "bright"
+    ],
+    "answer": "quick"
+  },
+  {
+    "id": 110,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ancient':",
+    "options": [
+      "accept",
+      "modern",
+      "brave",
+      "arrive"
+    ],
+    "answer": "modern"
+  },
+  {
+    "id": 111,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'happy':",
+    "options": [
+      "slow",
+      "joyful",
+      "sad",
+      "small"
+    ],
+    "answer": "joyful"
+  },
+  {
+    "id": 112,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ancient':",
+    "options": [
+      "quick",
+      "modern",
+      "brave",
+      "accept"
+    ],
+    "answer": "modern"
+  },
+  {
+    "id": 113,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'begin':",
+    "options": [
+      "sad",
+      "slow",
+      "start",
+      "young"
+    ],
+    "answer": "start"
+  },
+  {
+    "id": 114,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'arrive':",
+    "options": [
+      "large",
+      "depart",
+      "arrive",
+      "quick"
+    ],
+    "answer": "depart"
+  },
+  {
+    "id": 115,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'big':",
+    "options": [
+      "silent",
+      "young",
+      "large",
+      "angry"
+    ],
+    "answer": "large"
+  },
+  {
+    "id": 116,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ancient':",
+    "options": [
+      "modern",
+      "quick",
+      "arrive",
+      "accept"
+    ],
+    "answer": "modern"
+  },
+  {
+    "id": 117,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'happy':",
+    "options": [
+      "joyful",
+      "silent",
+      "small",
+      "slow"
+    ],
+    "answer": "joyful"
+  },
+  {
+    "id": 118,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'accept':",
+    "options": [
+      "brave",
+      "large",
+      "reject",
+      "arrive"
+    ],
+    "answer": "reject"
+  },
+  {
+    "id": 119,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most similar in meaning to 'fast':",
+    "options": [
+      "young",
+      "slow",
+      "sad",
+      "quick"
+    ],
+    "answer": "quick"
+  },
+  {
+    "id": 120,
+    "category": "aptitude",
+    "subcategory": "verbal",
+    "question": "Choose the word most opposite in meaning to 'ancient':",
+    "options": [
+      "modern",
+      "arrive",
+      "brave",
+      "accept"
+    ],
+    "answer": "modern"
+  },
+  {
+    "id": 121,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(2 ** 3)",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 122,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\na = [1,2,3]\nprint(a[::-1])",
+    "options": [
+      "[2, 2, 1]",
+      "[3, 2, 1]",
+      "None",
+      "[]"
+    ],
+    "answer": "[3, 2, 1]"
+  },
+  {
+    "id": 123,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(''.join(['a','b','c'][::-1]))",
+    "options": [
+      "cba",
+      "[]",
+      "None",
+      ""
+    ],
+    "answer": "cba"
+  },
+  {
+    "id": 124,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5//2)",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 125,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5/2)",
+    "options": [
+      "[]",
+      "2.5",
+      "1",
+      "None"
+    ],
+    "answer": "2.5"
+  },
+  {
+    "id": 126,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(len('hello'))",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 127,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(sum([1,2,3,4]))",
+    "options": [
+      "9",
+      "12",
+      "11",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 128,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nx = {1,2,3}\nprint(len(x))",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 129,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint('5' + '6')",
+    "options": [
+      "56",
+      "58",
+      "57",
+      "55"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 130,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(bool(''))",
+    "options": [
+      "None",
+      "False",
+      "Error",
+      "[]"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 131,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 2+3); return 0; }",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 132,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", a++); return 0; }",
+    "options": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 133,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", ++a); return 0; }",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 134,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 10/3); return 0; }",
+    "options": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 135,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){System.out.println(2+3);} }",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 136,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){int x=5; System.out.println(x++);} }",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 137,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(2 ** 3)",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 138,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\na = [1,2,3]\nprint(a[::-1])",
+    "options": [
+      "None",
+      "[3, 2, 1]",
+      "[]",
+      "[2, 2, 1]"
+    ],
+    "answer": "[3, 2, 1]"
+  },
+  {
+    "id": 139,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(''.join(['a','b','c'][::-1]))",
+    "options": [
+      "None",
+      "cba",
+      "Error",
+      "[]"
+    ],
+    "answer": "cba"
+  },
+  {
+    "id": 140,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5//2)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 141,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5/2)",
+    "options": [
+      "[]",
+      "2.5",
+      "None",
+      "Error"
+    ],
+    "answer": "2.5"
+  },
+  {
+    "id": 142,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(len('hello'))",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 143,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(sum([1,2,3,4]))",
+    "options": [
+      "12",
+      "11",
+      "10",
+      "9"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 144,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nx = {1,2,3}\nprint(len(x))",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 145,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint('5' + '6')",
+    "options": [
+      "57",
+      "58",
+      "55",
+      "56"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 146,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(bool(''))",
+    "options": [
+      "None",
+      "Error",
+      "False",
+      "[]"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 147,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 2+3); return 0; }",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 148,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", a++); return 0; }",
+    "options": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 149,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", ++a); return 0; }",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 150,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 10/3); return 0; }",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 151,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){System.out.println(2+3);} }",
+    "options": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 152,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){int x=5; System.out.println(x++);} }",
+    "options": [
+      "7",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 153,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(2 ** 3)",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 154,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\na = [1,2,3]\nprint(a[::-1])",
+    "options": [
+      "[]",
+      "[2, 2, 1]",
+      "[3, 2, 1]",
+      "None"
+    ],
+    "answer": "[3, 2, 1]"
+  },
+  {
+    "id": 155,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(''.join(['a','b','c'][::-1]))",
+    "options": [
+      "None",
+      "0",
+      "[]",
+      "cba"
+    ],
+    "answer": "cba"
+  },
+  {
+    "id": 156,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5//2)",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 157,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5/2)",
+    "options": [
+      "None",
+      "Error",
+      "2.5",
+      "[]"
+    ],
+    "answer": "2.5"
+  },
+  {
+    "id": 158,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(len('hello'))",
+    "options": [
+      "7",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 159,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(sum([1,2,3,4]))",
+    "options": [
+      "12",
+      "11",
+      "9",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 160,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nx = {1,2,3}\nprint(len(x))",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 161,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint('5' + '6')",
+    "options": [
+      "56",
+      "55",
+      "58",
+      "57"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 162,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(bool(''))",
+    "options": [
+      "[]",
+      "False",
+      "Error",
+      "None"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 163,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 2+3); return 0; }",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 164,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", a++); return 0; }",
+    "options": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 165,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", ++a); return 0; }",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 166,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 10/3); return 0; }",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 167,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){System.out.println(2+3);} }",
+    "options": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 168,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){int x=5; System.out.println(x++);} }",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 169,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(2 ** 3)",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 170,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\na = [1,2,3]\nprint(a[::-1])",
+    "options": [
+      "None",
+      "[2, 2, 1]",
+      "[3, 2, 1]",
+      "[]"
+    ],
+    "answer": "[3, 2, 1]"
+  },
+  {
+    "id": 171,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(''.join(['a','b','c'][::-1]))",
+    "options": [
+      "[]",
+      "",
+      "None",
+      "cba"
+    ],
+    "answer": "cba"
+  },
+  {
+    "id": 172,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5//2)",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 173,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5/2)",
+    "options": [
+      "",
+      "2.5",
+      "None",
+      "[]"
+    ],
+    "answer": "2.5"
+  },
+  {
+    "id": 174,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(len('hello'))",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 175,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(sum([1,2,3,4]))",
+    "options": [
+      "11",
+      "12",
+      "9",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 176,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nx = {1,2,3}\nprint(len(x))",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 177,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint('5' + '6')",
+    "options": [
+      "57",
+      "56",
+      "58",
+      "55"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 178,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(bool(''))",
+    "options": [
+      "False",
+      "0",
+      "[]",
+      "None"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 179,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 2+3); return 0; }",
+    "options": [
+      "7",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 180,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", a++); return 0; }",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 181,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", ++a); return 0; }",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 182,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 10/3); return 0; }",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 183,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){System.out.println(2+3);} }",
+    "options": [
+      "4",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 184,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){int x=5; System.out.println(x++);} }",
+    "options": [
+      "4",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 185,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(2 ** 3)",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "7"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 186,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\na = [1,2,3]\nprint(a[::-1])",
+    "options": [
+      "[]",
+      "None",
+      "[2, 2, 1]",
+      "[3, 2, 1]"
+    ],
+    "answer": "[3, 2, 1]"
+  },
+  {
+    "id": 187,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(''.join(['a','b','c'][::-1]))",
+    "options": [
+      "cba",
+      "[]",
+      "Error",
+      "None"
+    ],
+    "answer": "cba"
+  },
+  {
+    "id": 188,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5//2)",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 189,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(5/2)",
+    "options": [
+      "None",
+      "2.5",
+      "0",
+      "[]"
+    ],
+    "answer": "2.5"
+  },
+  {
+    "id": 190,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(len('hello'))",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 191,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(sum([1,2,3,4]))",
+    "options": [
+      "12",
+      "11",
+      "9",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 192,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nx = {1,2,3}\nprint(len(x))",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 193,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint('5' + '6')",
+    "options": [
+      "57",
+      "55",
+      "58",
+      "56"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 194,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(python) What is the output of the following code?\n\nprint(bool(''))",
+    "options": [
+      "0",
+      "False",
+      "[]",
+      "None"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": 195,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 2+3); return 0; }",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 196,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", a++); return 0; }",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 197,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ int a=5; printf(\"%d\", ++a); return 0; }",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 198,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(c) What is the output of the following code?\n\n#include <stdio.h>\nint main(){ printf(\"%d\", 10/3); return 0; }",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 199,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){System.out.println(2+3);} }",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 200,
+    "category": "technical",
+    "subcategory": "code_output",
+    "question": "(java) What is the output of the following code?\n\nclass A{public static void main(String[]a){int x=5; System.out.println(x++);} }",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "5"
+  }
+]

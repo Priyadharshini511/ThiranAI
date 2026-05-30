@@ -1,0 +1,405 @@
+[
+  {
+    "course_name": "Data Analytics using Excel",
+    "domain": "Data Science",
+    "provider": "Great Learning Academy",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-analytics-using-excel1",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 4 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Python for Data Science, AI & Development",
+    "domain": "Data Science",
+    "provider": "IBM via Coursera",
+    "link": "https://www.coursera.org/learn/python-for-applied-data-science-ai",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 3–5 weeks",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Data Analysis with Python",
+    "domain": "Data Science",
+    "provider": "IBM via Coursera",
+    "link": "https://www.coursera.org/learn/data-analysis-with-python",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 4–6 weeks",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Python Project for Data Science",
+    "domain": "Data Science",
+    "provider": "IBM via Coursera",
+    "link": "https://www.coursera.org/learn/python-project-for-data-science",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 8 hrs",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Introduction to Data Science in Python",
+    "domain": "Data Science",
+    "provider": "University of Michigan via Coursera",
+    "link": "https://www.coursera.org/learn/python-data-analysis",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 4 weeks",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Data Science Math Skills",
+    "domain": "Data Science",
+    "provider": "Duke University via Coursera",
+    "link": "https://www.coursera.org/learn/datasciencemathskills",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 13 hrs",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Intro to Data Analysis",
+    "domain": "Data Science",
+    "provider": "Udacity",
+    "link": "https://www.udacity.com/course/intro-to-data-analysis--ud170",
+    "level": "Beginner",
+    "certification": "No",
+    "duration": "Self-paced",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Data Science Crash Course",
+    "domain": "Data Science",
+    "provider": "Simplilearn SkillUp",
+    "link": "https://www.simplilearn.com/learn-data-science-basics-skillup",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 7 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Data Science Foundations",
+    "domain": "Data Science",
+    "provider": "edX (University of Washington)",
+    "link": "https://www.edx.org/professional-certificate/uw-data-science",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 10 weeks",
+    "cost": "Free to audit"
+  },
+  {
+    "course_name": "Excel to MySQL: Analytics Techniques",
+    "domain": "Data Science",
+    "provider": "Duke University via Coursera",
+    "link": "https://www.coursera.org/specializations/excel-mysql",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 6 months",
+    "cost": "Free trial"
+  },
+  {
+    "course_name": "Introduction to Machine Learning",
+    "domain": "Machine Learning",
+    "provider": "Duke University via Coursera",
+    "link": "https://www.coursera.org/learn/machine-learning-duke",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 25 hrs",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Machine Learning with Python",
+    "domain": "Machine Learning",
+    "provider": "IBM via Coursera",
+    "link": "https://www.coursera.org/learn/machine-learning-with-python",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 4 weeks",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Deep Learning Specialization",
+    "domain": "Machine Learning",
+    "provider": "DeepLearning.AI via Coursera",
+    "link": "https://www.coursera.org/specializations/deep-learning",
+    "level": "Advanced",
+    "certification": "Yes",
+    "duration": "≈ 5 months",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Intro to Machine Learning",
+    "domain": "Machine Learning",
+    "provider": "Kaggle Learn",
+    "link": "https://www.kaggle.com/learn/intro-to-machine-learning",
+    "level": "Beginner",
+    "certification": "No",
+    "duration": "≈ 4 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Machine Learning Crash Course",
+    "domain": "Machine Learning",
+    "provider": "Google",
+    "link": "https://developers.google.com/machine-learning/crash-course",
+    "level": "Beginner",
+    "certification": "No",
+    "duration": "≈ 15 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Applied Machine Learning in Python",
+    "domain": "Machine Learning",
+    "provider": "University of Michigan via Coursera",
+    "link": "https://www.coursera.org/learn/applied-machine-learning",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 4 weeks",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "AI For Everyone",
+    "domain": "Machine Learning",
+    "provider": "deeplearning.ai via Coursera",
+    "link": "https://www.coursera.org/learn/ai-for-everyone",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 9 hrs",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Supervised Learning",
+    "domain": "Machine Learning",
+    "provider": "Coursera Project Network",
+    "link": "https://www.coursera.org/projects/supervised-learning",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 2 hrs",
+    "cost": "Free trial"
+  },
+  {
+    "course_name": "ML DevOps Basics",
+    "domain": "Machine Learning",
+    "provider": "Microsoft Learn",
+    "link": "https://learn.microsoft.com/en-us/training/paths/mlops/",
+    "level": "Intermediate",
+    "certification": "No",
+    "duration": "≈ 6 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Intro to TensorFlow for Deep Learning",
+    "domain": "Machine Learning",
+    "provider": "Udacity",
+    "link": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187",
+    "level": "Intermediate",
+    "certification": "No",
+    "duration": "≈ 2 months",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Principles of UX/UI Design",
+    "domain": "UI/UX",
+    "provider": "Meta via Coursera",
+    "link": "https://www.coursera.org/learn/principles-of-ux-ui-design",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 5 hrs",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Designing User Interfaces and Experiences",
+    "domain": "UI/UX",
+    "provider": "IBM via Coursera",
+    "link": "https://www.coursera.org/learn/designing-user-interfaces-and-experiences-uiux",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 23 hrs",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "UI/UX Design Specialization",
+    "domain": "UI/UX",
+    "provider": "CalArts via Coursera",
+    "link": "https://www.coursera.org/specializations/ui-ux-design",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 16 weeks",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "Google UX Design Professional Certificate",
+    "domain": "UI/UX",
+    "provider": "Google via Coursera",
+    "link": "https://www.coursera.org/professional-certificates/google-ux-design",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 6 months",
+    "cost": "Free trial"
+  },
+  {
+    "course_name": "Introduction to UI Design",
+    "domain": "UI/UX",
+    "provider": "University of Minnesota via Coursera",
+    "link": "https://www.coursera.org/learn/user-interface-design",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 4 weeks",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "User Experience Design Essentials",
+    "domain": "UI/UX",
+    "provider": "Udemy",
+    "link": "https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 10 hrs",
+    "cost": "₹499–999"
+  },
+  {
+    "course_name": "Design Thinking for Innovation",
+    "domain": "UI/UX",
+    "provider": "University of Virginia via Coursera",
+    "link": "https://www.coursera.org/learn/uva-darden-design-thinking-innovation",
+    "level": "All Levels",
+    "certification": "Yes",
+    "duration": "≈ 6 hrs",
+    "cost": "Free audit / Free trial"
+  },
+  {
+    "course_name": "UX Design Fundamentals",
+    "domain": "UI/UX",
+    "provider": "Springboard (Free Course)",
+    "link": "https://www.springboard.com/learning-paths/user-experience-design/",
+    "level": "Beginner",
+    "certification": "No",
+    "duration": "≈ 10 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "UI/UX for Beginners",
+    "domain": "UI/UX",
+    "provider": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/ui-ux-design-for-beginners",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 1.5 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "UX Research at Scale",
+    "domain": "UI/UX",
+    "provider": "University of Michigan via Coursera",
+    "link": "https://www.coursera.org/learn/ux-research-at-scale-surveys-analytics-online-experiments",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 14 hrs",
+    "cost": "Free audit / Free trial"
+  },
+
+  {
+    "course_name": "Full Stack Web Development",
+    "domain": "Fullstack",
+    "provider": "freeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/",
+    "level": "Beginner to Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 300+ hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "The Web Developer Bootcamp",
+    "domain": "Fullstack",
+    "provider": "Udemy",
+    "link": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 63 hrs",
+    "cost": "₹499–999"
+  },
+  {
+    "course_name": "Full Stack Developer (MEAN)",
+    "domain": "Fullstack",
+    "provider": "Coursera (IBM)",
+    "link": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 6 months",
+    "cost": "Free trial / Audit"
+  },
+  {
+    "course_name": "CS50's Web Programming with Python and JavaScript",
+    "domain": "Fullstack",
+    "provider": "Harvard via edX",
+    "link": "https://cs50.harvard.edu/web/2020/",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 12 weeks",
+    "cost": "Free to audit"
+  },
+  {
+    "course_name": "Responsive Web Design Certification",
+    "domain": "Fullstack",
+    "provider": "freeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 300 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "The Odin Project - Full Stack Path",
+    "domain": "Fullstack",
+    "provider": "The Odin Project",
+    "link": "https://www.theodinproject.com/paths/full-stack-javascript",
+    "level": "Intermediate",
+    "certification": "No",
+    "duration": "≈ 6+ months",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Meta Full Stack Developer Certificate",
+    "domain": "Fullstack",
+    "provider": "Meta via Coursera",
+    "link": "https://www.coursera.org/professional-certificates/meta-back-end-developer",
+    "level": "Beginner to Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 7 months",
+    "cost": "Free audit / trial"
+  },
+  {
+    "course_name": "Full Stack Open",
+    "domain": "Fullstack",
+    "provider": "University of Helsinki",
+    "link": "https://fullstackopen.com/en/",
+    "level": "Intermediate",
+    "certification": "Yes",
+    "duration": "≈ 100+ hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Frontend and Backend Web Development",
+    "domain": "Fullstack",
+    "provider": "Great Learning",
+    "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development",
+    "level": "Beginner",
+    "certification": "Yes",
+    "duration": "≈ 2 hrs",
+    "cost": "Free"
+  },
+  {
+    "course_name": "Node.js & Express From Scratch",
+    "domain": "Fullstack",
+    "provider": "Traversy Media via YouTube",
+    "link": "https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+    "level": "Beginner",
+    "certification": "No",
+    "duration": "≈ 1.5 hrs",
+    "cost": "Free"
+  }
+
+
+]
